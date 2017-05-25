@@ -7,7 +7,7 @@
 	font-size: 1.2em;
 }
 #banner{
-	background-image: url('img/portada.jpg');
+	background-image: url('../img/portada.jpg');
 	min-height:650px;
 	text-align: right; 
 	border:0px;
