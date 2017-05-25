@@ -1,0 +1,48 @@
+#logo{
+	width:100px;
+}
+#nav{
+	border-bottom: 2px solid #999;
+	color: black;
+	font-size: 1.2em;
+}
+#banner{
+	background-image: url('img/portada.jpg');
+	min-height:650px;
+	text-align: right; 
+	border:0px;
+}
+#banner>.inner>h1,#banner>.inner>p  {
+	color: black;
+	margin-bottom: 5px;
+}
+#bienvenido{
+	color: black;
+	font-weight: bolder !important;
+	font-size: 4em !important;
+}
+#bienvenido-parrafo{
+	color: black;
+	font-weight: bolder;	
+}
+.social{
+	font-size: 2.5em !important;
+}
+.item-title{
+	background-color: #406618;
+	color: white;
+	text-align: center;
+}
+#header{
+	margin-top:-30px !important;
+}
+.btn-success{
+	background-color: #406618 !important;
+	text-decoration: none;
+}
+#one{
+	padding-top: 0px;
+}
+.icon{
+	color: black;
+}
